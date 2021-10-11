@@ -1,4 +1,4 @@
-package oopintro;
+package main;
 
 public class Individual extends Account {
 	

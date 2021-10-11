@@ -1,4 +1,4 @@
-package oopintro;
+package main;
 
 import java.time.LocalDate;
 import java.time.Period;
@@ -20,7 +20,7 @@ public class Owner {
 		this.surname = surname;
 		this.birthDate = birthDate;
 		this.customerType = customerType;
-		this.identityNumber = identityNumber;
+		this.identityNumber = identityNumber;  
 	}
 
 	public String getName() {

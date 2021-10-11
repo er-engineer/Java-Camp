@@ -1,4 +1,4 @@
-package oopintro;
+package main;
 
 public class Corporate extends Account{
 	private int foundingYear;

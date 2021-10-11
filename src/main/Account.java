@@ -1,10 +1,9 @@
-package oopintro;
+package main;
 
 public class Account {
 	private int id;
 	Owner owner;
-	// Simulation: Corporate and Individual Customer have their cards to use it while buying anything.
-	
+
 	public Account() {
 		// This is an empty constructor method to create instances with default property values.
 	}
